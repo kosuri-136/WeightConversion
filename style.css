@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: white;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: rgba(41, 16, 16, 0.906);
+    padding: 5vh 35vw 0 35vw;
+}
+.poundInput{
+    padding: 10px;
+}
+
+div{
+    border: 0;
+    border-radius: 10px;
+}
+.grams{
+    background-color: rgb(50, 50, 249);
+    padding: 1vh 2vw 2vh 2vw;
+}
+.grams p{
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+/* kg */
+.kg{
+    background-color: rgb(32, 225, 45);
+    padding: 1vh 2vw 2vh 2vw;
+}
+.kg p{
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+/* ounce */
+.ounce{
+    background-color: rgb(251, 54, 54);
+    padding: 1vh 2vw 2vh 2vw;
+}
+.ounce p{
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+/* h2 */
+
+h2{
+    color: aliceblue;
+}
